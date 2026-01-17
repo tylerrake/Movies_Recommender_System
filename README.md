@@ -12,3 +12,10 @@ Dataset used:
 The notebook and application run correctly once the dataset is placed
 in the appropriate directory.
 
+## Large Files Notice
+
+Some generated files, such as similarity matrix files (`similarity_story.pkl`, `similarity_genre.pkl`),
+are not uploaded to this repository due to GitHub file size limitations.
+
+These files are generated during notebook execution and can be recreated by running
+the provided Jupyter Notebook end-to-end.
